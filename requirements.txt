@@ -1,6 +1,22 @@
-pandas
-numpy
-faker
-jupyter
-seaborn
-matplotlib
+# ============================================
+# REQUIREMENTS.TXT
+# Taller de Limpieza y Calidad de Datos
+# ============================================
+
+# Procesamiento y análisis de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Exportación Excel
+openpyxl>=3.1.0
+
+# Entorno interactivo
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Utilidades adicionales
+ipykernel>=6.0.0
