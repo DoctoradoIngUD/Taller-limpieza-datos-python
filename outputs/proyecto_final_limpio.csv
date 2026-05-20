@@ -1,0 +1,501 @@
+id_estudiante,nombre,apellido,edad,ciudad,correo,telefono,promedio,estado_solicitud,fecha_registro,programa,modalidad,creditos_aprobados,beca,ingresos
+0,Maria,Gomez,38.0,Medellin,maria.gomez@mail.com,,2.42,En Proceso,2025-01-15,Ingenieria,Virtual,,Si,
+1,Jorge,Martinez,38.0,Barranquilla,,3001234567,3.67,Pendiente,2025-01-15,Fisica,Virtual,,Si,
+2,Maria,Castro,38.0,Cali,,,3.81,Aprobado,2025-01-15,Matematicas,Virtual,,Si,
+3,Juan,Martinez,34.0,Medellin,,,3.67,Rechazado,2025-02-15,Ingenieria,Hibrida,,Si,
+4,Jorge,Martinez,38.0,Barranquilla,,,3.67,Aprobado,,Ingenieria,Virtual,,Si,2110460.0
+5,Luisa,Martinez,38.0,Barranquilla,,6011234567,3.67,Rechazado,2025-02-15,Ingenieria,Presencial,,Si,
+6,Carlos,Torres,21.0,Bogota,,,2.46,Aprobado,2025-01-15,Matematicas,Virtual,,No,
+7,Jorge,Garcia,38.0,Bogota,,3001234567,2.88,Rechazado,2025-02-15,Fisica,Presencial,,Si,
+8,Carlos,Hernandez,38.0,Bogota,carlos.hernandez@mail.com,3001234567,3.67,Rechazado,2025-04-01,Doctorado,Hibrida,,No,2321324.0
+9,Maria,Lopez,38.0,Bogota,,6011234567,3.67,Pendiente,2025-04-01,Fisica,Hibrida,,No,
+10,Maria,Martinez,30.0,Cali,,,3.67,Pendiente,2025-01-15,Ingenieria,Virtual,29.0,Si,
+11,Jorge,Martinez,38.0,Medellin,,6011234567,3.67,En Proceso,2025-04-01,Doctorado,Virtual,12.0,No,
+12,Andres,Torres,19.0,Bogota,andres.torres@mail.com,6011234567,3.67,Pendiente,2025-04-01,Ingenieria,Presencial,,No,
+13,Ana,Rodriguez,38.0,Bogota,ana.rodriguez@mail.com,3001234567,3.67,Pendiente,2025-02-15,Ingenieria,Virtual,,No,7728339.0
+14,Andres,Gomez,38.0,Bucaramanga,,6011234567,3.67,Pendiente,2025-01-15,Ingenieria,Presencial,74.0,Si,6261415.0
+15,Valentina,Torres,38.0,Bogota,valentina.torres@mail.com,6011234567,3.67,Aprobado,,Fisica,Virtual,51.0,No,
+16,Juan,Rodriguez,38.0,Cali,,6011234567,4.8,Rechazado,2025-04-01,Matematicas,Presencial,,Si,2217071.0
+17,Valentina,Rodriguez,38.0,Medellin,,3001234567,3.52,Pendiente,,Ingenieria,Hibrida,,No,9874152.0
+18,Pedro,Rodriguez,38.0,Bogota,,,3.67,Rechazado,2025-03-20,Fisica,Presencial,,Si,
+19,Juan,Rodriguez,38.0,Medellin,,,3.67,Pendiente,2025-02-15,Fisica,Virtual,71.0,No,2876932.0
+20,Jorge,Gomez,38.0,Bogota,,,3.29,Aprobado,2025-04-01,Ingenieria,Presencial,85.0,No,
+21,Valentina,Lopez,38.0,Bogota,,,4.64,En Proceso,2025-04-01,Doctorado,Presencial,20.0,Si,7417985.0
+22,Ana,Martinez,38.0,Medellin,,3001234567,4.46,Pendiente,,Matematicas,Hibrida,110.0,Si,
+23,Andres,Hernandez,17.0,Medellin,andres.hernandez@mail.com,3001234567,3.67,En Proceso,2025-02-15,Ingenieria,Hibrida,77.0,No,
+24,Pedro,Gomez,43.0,Medellin,,,3.09,Rechazado,2025-04-01,Fisica,Virtual,,Si,
+25,Pedro,Lopez,38.0,Barranquilla,,,4.03,Aprobado,2025-04-01,Ingenieria,Hibrida,,No,
+26,Ana,Torres,26.0,Medellin,,3001234567,3.67,Pendiente,2025-01-15,Fisica,Hibrida,,No,3472189.0
+27,Ana,Torres,55.0,Bucaramanga,,,3.67,En Proceso,2025-02-15,Matematicas,Presencial,83.0,No,
+28,Carlos,Torres,38.0,Medellin,,6011234567,4.75,En Proceso,,Fisica,Presencial,,Si,
+29,Camila,Lopez,38.0,Medellin,,,3.67,En Proceso,2025-03-20,Fisica,Presencial,56.0,Si,5793722.0
+30,Luisa,Hernandez,50.0,Bogota,,6011234567,3.67,Aprobado,2025-02-15,Matematicas,Virtual,,Si,7975534.0
+31,Andres,Castro,53.0,Barranquilla,,,3.67,En Proceso,2025-04-01,Fisica,Presencial,,No,
+32,Juan,Castro,38.0,Bogota,juan.castro@mail.com,,4.52,Aprobado,2025-03-20,Ingenieria,Virtual,,No,4048907.0
+33,Andres,Hernandez,38.0,Cali,,,3.67,Rechazado,2025-01-15,Doctorado,Virtual,2.0,No,6871360.0
+34,Juan,Gomez,38.0,Bogota,,,3.86,Aprobado,,Fisica,Presencial,,No,7189034.0
+35,Valentina,Rodriguez,38.0,Bogota,,,3.67,Pendiente,2025-01-15,Ingenieria,Presencial,,No,
+36,Luisa,Castro,38.0,Bogota,luisa.castro@mail.com,,3.67,En Proceso,2025-02-15,Ingenieria,Virtual,,Si,
+37,Jorge,Garcia,38.0,Bucaramanga,,,3.67,Pendiente,,Doctorado,Virtual,,Si,
+38,Valentina,Castro,37.0,Bucaramanga,,6011234567,4.55,Rechazado,2025-02-15,Doctorado,Hibrida,,Si,
+39,Maria,Martinez,38.0,Medellin,,,3.67,Aprobado,,Ingenieria,Hibrida,,No,
+40,Luisa,Torres,38.0,Cali,,,3.67,En Proceso,2025-01-15,Ingenieria,Hibrida,29.0,Si,
+41,Jorge,Lopez,38.0,Bucaramanga,,3001234567,3.67,Pendiente,,Ingenieria,Presencial,,Si,
+42,Carlos,Garcia,18.0,Medellin,,3001234567,4.09,Aprobado,2025-01-15,Fisica,Hibrida,,No,6716097.0
+43,Pedro,Torres,23.0,Barranquilla,pedro.torres@mail.com,6011234567,3.67,Pendiente,2025-04-01,Doctorado,Presencial,,Si,
+44,Valentina,Martinez,38.0,Bucaramanga,,,3.67,Aprobado,2025-01-15,Fisica,Virtual,,No,
+45,Carlos,Martinez,38.0,Bogota,,,3.67,En Proceso,2025-02-15,Ingenieria,Virtual,,No,8617381.0
+46,Pedro,Martinez,43.0,Medellin,,3001234567,3.67,Aprobado,2025-03-20,Ingenieria,Hibrida,56.0,Si,
+47,Andres,Garcia,38.0,Bucaramanga,andres.garcia@mail.com,,3.67,Rechazado,2025-03-20,Fisica,Hibrida,,Si,
+48,Valentina,Gomez,38.0,Bucaramanga,,,4.75,Aprobado,2025-03-20,Matematicas,Hibrida,,No,2754894.0
+49,Andres,Torres,38.0,Bogota,,,3.67,Aprobado,2025-02-15,Doctorado,Virtual,,Si,7933143.0
+50,Jorge,Hernandez,38.0,Bucaramanga,,,4.28,Pendiente,2025-02-15,Ingenieria,Virtual,15.0,No,
+51,Pedro,Gomez,38.0,Bogota,,3001234567,2.67,Pendiente,2025-04-01,Matematicas,Hibrida,,Si,8922533.0
+52,Jorge,Lopez,38.0,Bogota,,,3.67,Rechazado,2025-04-01,Doctorado,Virtual,,Si,9214801.0
+53,Jorge,Torres,38.0,Barranquilla,,6011234567,3.67,En Proceso,2025-02-15,Ingenieria,Virtual,,Si,
+54,Camila,Gomez,38.0,Cali,camila.gomez@mail.com,,3.67,En Proceso,2025-03-20,Ingenieria,Presencial,,No,
+55,Luisa,Castro,57.0,Cali,,,3.67,En Proceso,2025-03-20,Doctorado,Presencial,79.0,Si,
+56,Ana,Rodriguez,43.0,Bogota,,3001234567,3.67,Aprobado,2025-02-15,Ingenieria,Virtual,,Si,8225725.0
+57,Jorge,Castro,38.0,Bogota,,,3.67,Pendiente,2025-03-20,Matematicas,Presencial,,No,
+58,Juan,Torres,38.0,Bogota,,,3.67,Rechazado,2025-04-01,Matematicas,Hibrida,,No,2789344.0
+59,Valentina,Hernandez,38.0,Medellin,,,3.67,Aprobado,2025-03-20,Fisica,Virtual,,No,
+60,Ana,Martinez,38.0,Bogota,ana.martinez@mail.com,,3.67,En Proceso,2025-03-20,Ingenieria,Presencial,,Si,
+61,Andres,Lopez,38.0,Cali,,,3.67,En Proceso,2025-02-15,Doctorado,Hibrida,102.0,Si,8857296.0
+62,Ana,Castro,38.0,Bogota,,,4.37,Aprobado,2025-02-15,Matematicas,Hibrida,,Si,7232293.0
+63,Camila,Gomez,38.0,Cali,camila.gomez@mail.com,,4.75,Rechazado,2025-04-01,Fisica,Virtual,17.0,Si,
+64,Maria,Rodriguez,38.0,Bogota,,,3.67,Pendiente,2025-03-20,Matematicas,Virtual,,No,5693260.0
+65,Ana,Torres,38.0,Cali,,,3.67,Rechazado,2025-02-15,Ingenieria,Virtual,24.0,Si,8628891.0
+66,Valentina,Gomez,38.0,Medellin,,3001234567,3.67,Pendiente,2025-02-15,Fisica,Presencial,,No,
+67,Carlos,Garcia,27.0,Bogota,,,3.67,Rechazado,2025-01-15,Ingenieria,Presencial,,Si,
+68,Maria,Torres,38.0,Bogota,maria.torres@mail.com,,3.36,Rechazado,2025-01-15,Matematicas,Virtual,,Si,
+69,Camila,Torres,20.0,Cali,,,3.82,Rechazado,2025-01-15,Matematicas,Presencial,,Si,
+70,Jorge,Martinez,38.0,Medellin,,,3.67,Aprobado,2025-04-01,Ingenieria,Virtual,,Si,7279729.0
+71,Maria,Rodriguez,21.0,Barranquilla,,6011234567,3.67,Aprobado,2025-04-01,Fisica,Presencial,85.0,Si,
+72,Juan,Garcia,38.0,Cali,,6011234567,3.67,En Proceso,,Ingenieria,Virtual,,Si,
+73,Ana,Castro,38.0,Bogota,,3001234567,3.67,Pendiente,,Ingenieria,Hibrida,44.0,Si,4043480.0
+74,Andres,Rodriguez,25.0,Bogota,,,4.24,En Proceso,2025-02-15,Ingenieria,Presencial,,Si,2425342.0
+75,Carlos,Gomez,59.0,Medellin,,,3.67,En Proceso,2025-01-15,Matematicas,Hibrida,96.0,No,
+76,Pedro,Torres,38.0,Bogota,pedro.torres@mail.com,3001234567,3.67,Pendiente,2025-01-15,Ingenieria,Presencial,,No,
+77,Juan,Torres,38.0,Bogota,,,3.67,Rechazado,2025-03-20,Ingenieria,Virtual,55.0,Si,8713396.0
+78,Valentina,Castro,38.0,Barranquilla,valentina.castro@mail.com,,3.67,Pendiente,2025-01-15,Doctorado,Presencial,,No,
+79,Ana,Castro,38.0,Bogota,,6011234567,3.67,Rechazado,2025-02-15,Doctorado,Presencial,65.0,Si,
+80,Luisa,Hernandez,38.0,Medellin,,6011234567,3.67,Pendiente,,Doctorado,Virtual,,No,
+81,Camila,Hernandez,38.0,Bogota,,,3.67,Rechazado,2025-04-01,Fisica,Virtual,64.0,Si,
+82,Juan,Gomez,38.0,Bogota,,,3.93,Aprobado,2025-01-15,Matematicas,Presencial,,No,9411547.0
+83,Camila,Rodriguez,37.0,Bogota,,,3.67,Pendiente,,Ingenieria,Hibrida,,Si,
+84,Juan,Hernandez,38.0,Bogota,,,3.67,Pendiente,2025-04-01,Ingenieria,Virtual,,No,
+85,Carlos,Rodriguez,38.0,Barranquilla,,,3.67,Aprobado,2025-02-15,Fisica,Virtual,,Si,6181912.0
+86,Luisa,Torres,38.0,Bogota,luisa.torres@mail.com,,3.67,Aprobado,2025-02-15,Fisica,Hibrida,,No,3587931.0
+87,Valentina,Lopez,44.0,Barranquilla,,,3.67,Rechazado,2025-02-15,Doctorado,Virtual,,No,
+88,Luisa,Torres,38.0,Barranquilla,,6011234567,3.67,Pendiente,2025-01-15,Doctorado,Hibrida,,Si,
+89,Jorge,Rodriguez,34.0,Bogota,,,3.67,Aprobado,2025-04-01,Ingenieria,Virtual,119.0,Si,7960815.0
+90,Jorge,Hernandez,38.0,Bogota,,3001234567,3.12,Rechazado,2025-02-15,Doctorado,Presencial,,No,
+91,Camila,Torres,55.0,Bogota,,,2.06,En Proceso,2025-04-01,Ingenieria,Hibrida,38.0,No,1801102.0
+92,Valentina,Torres,20.0,Bucaramanga,,6011234567,3.79,Rechazado,2025-01-15,Matematicas,Virtual,,Si,
+93,Jorge,Hernandez,38.0,Bogota,jorge.hernandez@mail.com,,3.67,Rechazado,2025-01-15,Ingenieria,Virtual,100.0,Si,6784825.0
+94,Valentina,Hernandez,24.0,Cali,,,3.67,En Proceso,2025-02-15,Fisica,Presencial,,No,
+95,Juan,Martinez,38.0,Medellin,,,3.67,Aprobado,2025-01-15,Doctorado,Presencial,45.0,Si,
+96,Luisa,Castro,38.0,Barranquilla,,,3.02,Rechazado,2025-04-01,Doctorado,Presencial,102.0,Si,8121922.0
+97,Valentina,Lopez,38.0,Cali,,,3.67,En Proceso,2025-01-15,Fisica,Virtual,,No,
+98,Luisa,Castro,33.0,Bogota,,,3.67,Pendiente,2025-03-20,Ingenieria,Presencial,,No,2127988.0
+99,Luisa,Castro,52.0,Bogota,,,3.67,Aprobado,2025-01-15,Fisica,Presencial,,Si,5675638.0
+100,Juan,Lopez,38.0,Barranquilla,,,4.74,En Proceso,2025-02-15,Ingenieria,Presencial,,Si,4358435.0
+101,Maria,Torres,38.0,Bogota,,3001234567,3.67,Rechazado,2025-01-15,Ingenieria,Presencial,,No,9535505.0
+102,Ana,Lopez,38.0,Bogota,,,3.67,Pendiente,2025-04-01,Fisica,Virtual,,Si,
+103,Andres,Rodriguez,38.0,Bogota,,6011234567,3.67,Pendiente,2025-02-15,Doctorado,Presencial,64.0,No,
+104,Pedro,Lopez,38.0,Medellin,,3001234567,3.67,Rechazado,,Ingenieria,Presencial,,Si,9950276.0
+105,Carlos,Lopez,38.0,Cali,carlos.lopez@mail.com,3001234567,3.67,Aprobado,2025-01-15,Ingenieria,Presencial,,Si,
+106,Camila,Garcia,38.0,Bucaramanga,,,3.67,En Proceso,2025-02-15,Ingenieria,Virtual,,No,
+107,Luisa,Lopez,38.0,Cali,,,4.93,Aprobado,2025-02-15,Ingenieria,Presencial,,No,8542969.0
+108,Maria,Gomez,38.0,Barranquilla,,,2.74,Rechazado,2025-04-01,Ingenieria,Presencial,,No,
+109,Juan,Rodriguez,38.0,Bucaramanga,,3001234567,4.9,Aprobado,2025-02-15,Ingenieria,Virtual,36.0,No,
+110,Pedro,Hernandez,38.0,Bogota,,,3.67,Rechazado,2025-01-15,Ingenieria,Virtual,,No,2993318.0
+111,Andres,Hernandez,38.0,Cali,,,4.26,Aprobado,2025-04-01,Ingenieria,Virtual,,No,
+112,Carlos,Lopez,38.0,Cali,,,3.67,Rechazado,2025-03-20,Fisica,Presencial,,No,8967375.0
+113,Luisa,Rodriguez,38.0,Medellin,luisa.rodriguez@mail.com,,3.67,En Proceso,,Ingenieria,Presencial,92.0,No,9060593.0
+114,Valentina,Castro,38.0,Bogota,valentina.castro@mail.com,6011234567,3.67,Aprobado,,Matematicas,Hibrida,,No,
+115,Valentina,Torres,38.0,Medellin,,,3.67,En Proceso,2025-03-20,Ingenieria,Presencial,,No,
+116,Valentina,Torres,38.0,Medellin,,,3.67,Pendiente,2025-01-15,Fisica,Virtual,,Si,
+117,Valentina,Castro,38.0,Bogota,valentina.castro@mail.com,,3.67,En Proceso,2025-03-20,Fisica,Hibrida,,No,
+118,Carlos,Rodriguez,38.0,Medellin,,6011234567,3.67,Aprobado,2025-02-15,Ingenieria,Virtual,,Si,
+119,Juan,Lopez,38.0,Bucaramanga,,,3.67,Aprobado,2025-02-15,Doctorado,Virtual,68.0,No,
+120,Juan,Castro,38.0,Medellin,,,4.63,Aprobado,2025-04-01,Ingenieria,Hibrida,,No,
+121,Pedro,Martinez,38.0,Bogota,,6011234567,3.67,Aprobado,2025-04-01,Fisica,Hibrida,,Si,
+122,Andres,Hernandez,38.0,Bogota,,,2.55,Pendiente,2025-03-20,Ingenieria,Hibrida,,No,
+123,Valentina,Gomez,38.0,Medellin,,,2.19,Pendiente,,Matematicas,Presencial,88.0,Si,
+124,Ana,Martinez,38.0,Bogota,,,3.67,En Proceso,2025-04-01,Doctorado,Presencial,,No,
+125,Jorge,Hernandez,38.0,Bogota,,,3.67,Pendiente,,Ingenieria,Hibrida,,No,9201172.0
+126,Camila,Gomez,38.0,Barranquilla,,,3.37,Aprobado,2025-04-01,Matematicas,Hibrida,,Si,2225232.0
+127,Luisa,Rodriguez,50.0,Bogota,luisa.rodriguez@mail.com,,3.67,En Proceso,2025-04-01,Ingenieria,Presencial,,No,
+128,Maria,Lopez,38.0,Bogota,,,3.67,Pendiente,,Fisica,Presencial,96.0,Si,
+129,Andres,Castro,38.0,Bucaramanga,,3001234567,3.67,Aprobado,,Doctorado,Virtual,,Si,2128954.0
+130,Juan,Torres,54.0,Medellin,,6011234567,3.67,Pendiente,,Doctorado,Virtual,,No,
+131,Luisa,Hernandez,38.0,Bogota,,,3.67,Rechazado,2025-03-20,Ingenieria,Virtual,,No,9315137.0
+132,Andres,Hernandez,38.0,Barranquilla,,,3.67,En Proceso,,Ingenieria,Presencial,,Si,8768273.0
+133,Andres,Castro,38.0,Bogota,,,3.67,Aprobado,2025-04-01,Matematicas,Hibrida,,Si,
+134,Valentina,Gomez,38.0,Medellin,,3001234567,3.67,Pendiente,2025-02-15,Ingenieria,Virtual,,No,
+135,Jorge,Hernandez,38.0,Bucaramanga,,,3.67,Rechazado,2025-03-20,Fisica,Virtual,,No,6372622.0
+136,Luisa,Castro,38.0,Medellin,,,4.22,En Proceso,2025-02-15,Ingenieria,Presencial,,No,
+137,Camila,Hernandez,38.0,Bucaramanga,,6011234567,3.67,Pendiente,2025-01-15,Fisica,Presencial,23.0,No,9790328.0
+138,Juan,Gomez,38.0,Medellin,juan.gomez@mail.com,6011234567,2.2,En Proceso,,Ingenieria,Virtual,,No,1263935.0
+139,Jorge,Castro,16.0,Medellin,jorge.castro@mail.com,,3.67,En Proceso,2025-02-15,Doctorado,Presencial,117.0,Si,9797727.0
+140,Ana,Garcia,38.0,Barranquilla,,,3.67,Pendiente,2025-04-01,Fisica,Presencial,87.0,Si,1531577.0
+141,Andres,Castro,38.0,Bogota,,3001234567,3.67,En Proceso,2025-02-15,Doctorado,Virtual,72.0,Si,9861040.0
+142,Ana,Torres,33.0,Bogota,ana.torres@mail.com,6011234567,3.67,Rechazado,2025-02-15,Ingenieria,Presencial,,No,
+143,Valentina,Martinez,38.0,Cali,,3001234567,3.67,Rechazado,,Ingenieria,Virtual,29.0,No,
+144,Valentina,Castro,36.0,Medellin,,6011234567,3.67,Rechazado,2025-03-20,Fisica,Virtual,,No,
+145,Ana,Rodriguez,38.0,Bogota,,,3.67,Rechazado,2025-03-20,Ingenieria,Virtual,,Si,
+146,Maria,Lopez,38.0,Barranquilla,,3001234567,3.67,Aprobado,2025-03-20,Ingenieria,Hibrida,,Si,7463219.0
+147,Andres,Castro,38.0,Medellin,,6011234567,3.72,Pendiente,2025-04-01,Ingenieria,Hibrida,,Si,2061446.0
+148,Pedro,Castro,38.0,Bogota,,,3.08,Pendiente,,Matematicas,Virtual,38.0,No,
+149,Andres,Hernandez,38.0,Barranquilla,,,3.67,Rechazado,2025-03-20,Fisica,Presencial,,No,
+150,Camila,Martinez,38.0,Medellin,,3001234567,3.67,Pendiente,2025-02-15,Fisica,Presencial,87.0,No,
+151,Camila,Garcia,60.0,Barranquilla,,6011234567,4.02,Rechazado,,Fisica,Presencial,,No,
+152,Camila,Castro,38.0,Barranquilla,camila.castro@mail.com,3001234567,3.67,Pendiente,2025-04-01,Fisica,Hibrida,82.0,No,
+153,Maria,Gomez,38.0,Medellin,,,3.67,Rechazado,2025-03-20,Matematicas,Virtual,44.0,No,9099554.0
+154,Andres,Rodriguez,38.0,Cali,,,3.67,En Proceso,2025-03-20,Ingenieria,Virtual,,Si,6350413.0
+155,Juan,Rodriguez,38.0,Bogota,,,4.03,Pendiente,2025-04-01,Fisica,Presencial,,Si,8751982.0
+156,Carlos,Lopez,38.0,Barranquilla,,,3.67,En Proceso,2025-01-15,Matematicas,Virtual,,No,
+157,Jorge,Lopez,38.0,Medellin,,,3.67,Rechazado,2025-04-01,Fisica,Virtual,75.0,No,
+158,Valentina,Lopez,38.0,Bogota,valentina.lopez@mail.com,6011234567,3.67,Rechazado,2025-04-01,Ingenieria,Presencial,,Si,
+159,Valentina,Lopez,38.0,Barranquilla,,,3.67,Pendiente,2025-01-15,Matematicas,Hibrida,,No,
+160,Luisa,Gomez,38.0,Medellin,,,3.67,En Proceso,2025-03-20,Matematicas,Virtual,21.0,No,1517756.0
+161,Juan,Garcia,38.0,Medellin,,,3.67,Aprobado,2025-04-01,Fisica,Virtual,,Si,
+162,Jorge,Martinez,43.0,Medellin,,,2.89,Rechazado,,Doctorado,Virtual,110.0,No,4975295.0
+163,Luisa,Castro,38.0,Bogota,luisa.castro@mail.com,,4.35,Rechazado,2025-03-20,Fisica,Hibrida,,No,
+164,Jorge,Rodriguez,38.0,Bogota,,6011234567,3.67,Pendiente,,Ingenieria,Hibrida,,No,9211754.0
+165,Pedro,Castro,38.0,Bogota,,,3.9,Rechazado,2025-01-15,Fisica,Hibrida,,No,
+166,Camila,Hernandez,38.0,Barranquilla,,,3.67,Rechazado,2025-01-15,Ingenieria,Hibrida,,Si,
+167,Juan,Rodriguez,38.0,Bogota,,,2.37,Aprobado,2025-01-15,Matematicas,Presencial,,No,
+168,Luisa,Garcia,38.0,Bogota,,6011234567,3.67,En Proceso,2025-02-15,Fisica,Virtual,,Si,8999489.0
+169,Valentina,Martinez,38.0,Bogota,valentina.martinez@mail.com,,3.67,Pendiente,2025-03-20,Matematicas,Virtual,49.0,No,2718442.0
+170,Luisa,Garcia,38.0,Bogota,,3001234567,3.67,Aprobado,,Fisica,Presencial,,No,
+171,Camila,Martinez,21.0,Bogota,,,3.67,En Proceso,,Ingenieria,Presencial,35.0,No,
+172,Valentina,Garcia,60.0,Medellin,,,3.67,Rechazado,2025-04-01,Fisica,Virtual,,No,2891524.0
+173,Valentina,Rodriguez,49.0,Cali,,,4.8,En Proceso,,Ingenieria,Presencial,,No,2224599.0
+174,Maria,Gomez,38.0,Bogota,,,3.67,En Proceso,2025-03-20,Matematicas,Virtual,,Si,5655136.0
+175,Maria,Martinez,38.0,Cali,maria.martinez@mail.com,,3.67,En Proceso,2025-04-01,Fisica,Presencial,31.0,Si,8289425.0
+176,Valentina,Gomez,38.0,Bogota,valentina.gomez@mail.com,6011234567,2.04,En Proceso,2025-03-20,Ingenieria,Presencial,,Si,
+177,Maria,Gomez,38.0,Medellin,maria.gomez@mail.com,,3.67,En Proceso,2025-03-20,Fisica,Hibrida,,Si,7168777.0
+178,Maria,Rodriguez,38.0,Bogota,,3001234567,2.13,En Proceso,2025-03-20,Ingenieria,Virtual,22.0,No,8035849.0
+179,Ana,Castro,38.0,Bogota,ana.castro@mail.com,6011234567,3.71,Pendiente,2025-03-20,Doctorado,Presencial,51.0,Si,
+180,Luisa,Rodriguez,38.0,Bogota,,,3.67,Pendiente,2025-01-15,Matematicas,Hibrida,,No,5112546.0
+181,Andres,Gomez,38.0,Cali,andres.gomez@mail.com,,3.67,Aprobado,2025-04-01,Doctorado,Virtual,,Si,9888812.0
+182,Camila,Gomez,38.0,Bogota,,,2.13,En Proceso,,Fisica,Virtual,,Si,7616116.0
+183,Valentina,Gomez,38.0,Medellin,,,3.67,Rechazado,2025-01-15,Matematicas,Hibrida,,No,
+184,Carlos,Rodriguez,38.0,Bucaramanga,,6011234567,2.94,En Proceso,2025-03-20,Ingenieria,Virtual,109.0,Si,2517010.0
+185,Valentina,Gomez,38.0,Bogota,,,2.27,Aprobado,2025-04-01,Fisica,Hibrida,,Si,
+186,Jorge,Martinez,38.0,Bogota,jorge.martinez@mail.com,3001234567,4.41,Aprobado,2025-01-15,Doctorado,Presencial,,No,
+187,Valentina,Garcia,20.0,Bogota,,6011234567,3.67,Aprobado,,Doctorado,Hibrida,,Si,1849559.0
+188,Andres,Castro,47.0,Barranquilla,,6011234567,4.05,Pendiente,,Ingenieria,Hibrida,,No,
+189,Valentina,Martinez,38.0,Bucaramanga,,3001234567,3.67,Aprobado,,Ingenieria,Virtual,,No,9821696.0
+190,Juan,Castro,38.0,Bucaramanga,,,3.67,Rechazado,2025-01-15,Ingenieria,Virtual,,Si,
+191,Camila,Hernandez,38.0,Bogota,,,3.67,Aprobado,,Doctorado,Presencial,,No,3954473.0
+192,Luisa,Hernandez,53.0,Cali,,,3.67,Pendiente,2025-01-15,Doctorado,Virtual,,Si,1636925.0
+193,Ana,Martinez,38.0,Bucaramanga,,6011234567,3.67,Rechazado,2025-02-15,Fisica,Presencial,7.0,Si,
+194,Maria,Hernandez,38.0,Barranquilla,,,3.67,Pendiente,,Ingenieria,Virtual,,No,
+195,Valentina,Hernandez,38.0,Bogota,,6011234567,3.67,Pendiente,2025-03-20,Fisica,Virtual,108.0,No,
+196,Valentina,Martinez,38.0,Bogota,,3001234567,4.81,Pendiente,2025-01-15,Ingenieria,Hibrida,81.0,No,
+197,Pedro,Martinez,31.0,Cali,pedro.martinez@mail.com,3001234567,2.77,En Proceso,2025-03-20,Matematicas,Virtual,,No,
+198,Jorge,Castro,38.0,Medellin,jorge.castro@mail.com,,2.49,Aprobado,2025-02-15,Ingenieria,Hibrida,,Si,
+199,Maria,Rodriguez,38.0,Bucaramanga,,,3.67,En Proceso,,Ingenieria,Virtual,,Si,
+200,Jorge,Garcia,38.0,Medellin,,,2.71,En Proceso,,Ingenieria,Virtual,,Si,
+201,Camila,Martinez,22.0,Medellin,camila.martinez@mail.com,,3.67,Aprobado,,Ingenieria,Virtual,,No,
+202,Andres,Lopez,38.0,Cali,,,2.56,En Proceso,2025-01-15,Ingenieria,Presencial,72.0,Si,
+203,Maria,Hernandez,38.0,Medellin,,,3.67,En Proceso,2025-01-15,Fisica,Presencial,38.0,No,
+204,Jorge,Lopez,38.0,Bogota,,6011234567,4.85,Pendiente,2025-02-15,Ingenieria,Virtual,,Si,
+205,Valentina,Garcia,36.0,Bogota,,,3.67,En Proceso,,Doctorado,Virtual,,No,3510581.0
+206,Valentina,Rodriguez,38.0,Bogota,,,3.67,Rechazado,2025-02-15,Matematicas,Virtual,,No,
+207,Valentina,Castro,38.0,Cali,,,4.07,Rechazado,2025-01-15,Ingenieria,Hibrida,,Si,
+208,Ana,Lopez,38.0,Cali,ana.lopez@mail.com,6011234567,3.67,En Proceso,2025-02-15,Ingenieria,Virtual,,No,
+209,Maria,Garcia,38.0,Bogota,maria.garcia@mail.com,6011234567,3.67,Pendiente,2025-03-20,Doctorado,Presencial,31.0,Si,8657937.0
+210,Ana,Garcia,38.0,Barranquilla,ana.garcia@mail.com,6011234567,3.91,Rechazado,2025-02-15,Matematicas,Presencial,,No,
+211,Pedro,Rodriguez,34.0,Barranquilla,,6011234567,3.67,Pendiente,2025-01-15,Fisica,Presencial,,Si,9611430.0
+212,Camila,Lopez,38.0,Bogota,,,3.67,En Proceso,,Matematicas,Hibrida,,No,
+213,Valentina,Castro,53.0,Bogota,,,3.67,Rechazado,2025-03-20,Ingenieria,Virtual,,No,
+214,Pedro,Garcia,38.0,Medellin,pedro.garcia@mail.com,,2.45,En Proceso,2025-03-20,Fisica,Hibrida,92.0,No,
+215,Andres,Castro,40.0,Medellin,,,3.67,En Proceso,2025-01-15,Fisica,Hibrida,,Si,
+216,Camila,Lopez,38.0,Bogota,camila.lopez@mail.com,6011234567,3.67,Rechazado,,Ingenieria,Hibrida,,No,
+217,Pedro,Torres,38.0,Bogota,pedro.torres@mail.com,,3.67,Pendiente,2025-02-15,Fisica,Virtual,,No,7930789.0
+218,Carlos,Martinez,38.0,Bucaramanga,,3001234567,3.67,En Proceso,2025-03-20,Ingenieria,Presencial,81.0,Si,
+219,Ana,Lopez,38.0,Bucaramanga,,,4.36,En Proceso,2025-01-15,Fisica,Virtual,,No,7430982.0
+220,Jorge,Martinez,39.0,Cali,,3001234567,3.67,Aprobado,2025-01-15,Fisica,Presencial,,No,6236039.0
+221,Andres,Garcia,26.0,Bogota,,,3.67,Rechazado,2025-02-15,Matematicas,Presencial,,Si,7027229.0
+222,Andres,Gomez,38.0,Bogota,,3001234567,2.63,Rechazado,2025-01-15,Fisica,Virtual,,No,
+223,Valentina,Gomez,58.0,Bogota,,,2.14,En Proceso,2025-01-15,Ingenieria,Presencial,,Si,
+224,Pedro,Castro,58.0,Medellin,,,3.67,Aprobado,2025-02-15,Fisica,Presencial,36.0,Si,
+225,Valentina,Martinez,38.0,Medellin,,6011234567,3.67,Aprobado,2025-01-15,Fisica,Virtual,,No,6546608.0
+226,Juan,Rodriguez,38.0,Bucaramanga,juan.rodriguez@mail.com,3001234567,2.45,Rechazado,2025-01-15,Fisica,Presencial,,No,8789281.0
+227,Carlos,Gomez,38.0,Cali,carlos.gomez@mail.com,3001234567,3.28,Aprobado,2025-03-20,Doctorado,Presencial,,No,
+228,Maria,Hernandez,38.0,Bogota,,,3.67,En Proceso,2025-01-15,Doctorado,Virtual,,No,1983923.0
+229,Andres,Torres,38.0,Bogota,andres.torres@mail.com,6011234567,3.67,En Proceso,2025-03-20,Matematicas,Virtual,56.0,No,
+230,Juan,Martinez,38.0,Bogota,,,3.67,Rechazado,2025-02-15,Fisica,Virtual,107.0,No,
+231,Jorge,Torres,38.0,Bogota,,,3.67,Rechazado,2025-01-15,Ingenieria,Presencial,,No,7765865.0
+232,Camila,Torres,38.0,Bogota,,3001234567,3.67,En Proceso,,Fisica,Virtual,,Si,
+233,Juan,Rodriguez,38.0,Medellin,,,3.67,Rechazado,,Ingenieria,Virtual,,No,
+234,Valentina,Torres,38.0,Bucaramanga,,3001234567,3.67,Rechazado,2025-04-01,Ingenieria,Hibrida,89.0,Si,1768029.0
+235,Carlos,Castro,38.0,Medellin,,,3.67,Pendiente,,Fisica,Hibrida,,Si,
+236,Maria,Torres,38.0,Bogota,maria.torres@mail.com,,4.89,En Proceso,2025-02-15,Doctorado,Presencial,,No,
+237,Maria,Castro,38.0,Cali,,,3.67,Pendiente,2025-04-01,Ingenieria,Virtual,,Si,3237608.0
+238,Valentina,Garcia,38.0,Cali,,6011234567,3.67,Pendiente,,Fisica,Hibrida,,Si,
+239,Luisa,Rodriguez,38.0,Bucaramanga,,,3.67,Rechazado,2025-02-15,Doctorado,Virtual,66.0,Si,
+240,Juan,Gomez,38.0,Bogota,,6011234567,3.67,Aprobado,2025-01-15,Fisica,Hibrida,96.0,No,
+241,Valentina,Martinez,38.0,Barranquilla,,3001234567,3.67,En Proceso,2025-03-20,Matematicas,Virtual,70.0,Si,
+242,Ana,Torres,38.0,Medellin,,,4.33,Pendiente,2025-04-01,Fisica,Virtual,22.0,No,7328336.0
+243,Pedro,Garcia,38.0,Medellin,,3001234567,3.67,Pendiente,,Ingenieria,Presencial,,Si,
+244,Luisa,Rodriguez,38.0,Medellin,luisa.rodriguez@mail.com,,3.67,Pendiente,2025-03-20,Matematicas,Presencial,,No,4711087.0
+245,Luisa,Hernandez,38.0,Bucaramanga,luisa.hernandez@mail.com,3001234567,3.67,Rechazado,2025-04-01,Matematicas,Presencial,,No,7398370.0
+246,Pedro,Garcia,38.0,Cali,,,3.67,Aprobado,,Ingenieria,Presencial,65.0,Si,2609881.0
+247,Jorge,Gomez,56.0,Medellin,,3001234567,4.01,Pendiente,2025-03-20,Fisica,Virtual,,Si,
+248,Juan,Rodriguez,20.0,Bogota,juan.rodriguez@mail.com,,3.67,Pendiente,2025-01-15,Ingenieria,Virtual,,No,
+249,Andres,Rodriguez,50.0,Bogota,andres.rodriguez@mail.com,3001234567,3.67,Rechazado,2025-04-01,Fisica,Virtual,,Si,
+250,Andres,Castro,58.0,Bucaramanga,,,2.47,Rechazado,,Fisica,Presencial,,Si,
+251,Carlos,Rodriguez,18.0,Barranquilla,,6011234567,3.61,Rechazado,2025-03-20,Ingenieria,Virtual,,No,
+252,Ana,Rodriguez,38.0,Bogota,,,3.67,Aprobado,2025-03-20,Ingenieria,Virtual,,Si,
+253,Carlos,Martinez,38.0,Bogota,,,3.67,Rechazado,2025-02-15,Fisica,Hibrida,,No,
+254,Juan,Hernandez,38.0,Barranquilla,,,3.67,En Proceso,2025-01-15,Matematicas,Virtual,,Si,
+255,Carlos,Rodriguez,38.0,Medellin,carlos.rodriguez@mail.com,3001234567,3.67,Aprobado,,Doctorado,Presencial,,Si,4569531.0
+256,Pedro,Torres,38.0,Cali,,6011234567,3.67,En Proceso,2025-02-15,Fisica,Presencial,,Si,9424968.0
+257,Valentina,Lopez,38.0,Bucaramanga,,,3.67,Rechazado,2025-02-15,Ingenieria,Presencial,29.0,No,
+258,Juan,Martinez,38.0,Barranquilla,juan.martinez@mail.com,3001234567,3.67,Rechazado,2025-04-01,Ingenieria,Presencial,,Si,
+259,Luisa,Rodriguez,38.0,Barranquilla,,,4.92,Rechazado,2025-02-15,Matematicas,Virtual,,Si,8380275.0
+260,Maria,Garcia,38.0,Bogota,maria.garcia@mail.com,6011234567,3.67,En Proceso,,Doctorado,Hibrida,,Si,9036641.0
+261,Carlos,Castro,38.0,Bogota,,6011234567,3.67,Aprobado,2025-04-01,Fisica,Presencial,,Si,
+262,Valentina,Gomez,38.0,Bogota,,,3.67,Pendiente,2025-02-15,Ingenieria,Virtual,,No,
+263,Luisa,Torres,38.0,Bogota,,3001234567,3.67,Aprobado,2025-04-01,Ingenieria,Presencial,,No,2615622.0
+264,Valentina,Gomez,38.0,Bogota,,,3.67,Aprobado,2025-02-15,Doctorado,Virtual,47.0,No,
+265,Camila,Castro,38.0,Bogota,,6011234567,3.67,Aprobado,2025-01-15,Ingenieria,Presencial,,No,
+266,Valentina,Rodriguez,49.0,Barranquilla,,,3.67,Rechazado,2025-04-01,Ingenieria,Presencial,,No,
+267,Valentina,Hernandez,38.0,Barranquilla,,6011234567,3.67,Rechazado,2025-04-01,Fisica,Presencial,,No,
+268,Carlos,Rodriguez,38.0,Bogota,,,3.67,Aprobado,,Ingenieria,Virtual,102.0,Si,
+269,Andres,Rodriguez,38.0,Medellin,andres.rodriguez@mail.com,,3.67,En Proceso,2025-04-01,Fisica,Presencial,91.0,Si,
+270,Camila,Gomez,38.0,Medellin,,,3.67,Pendiente,2025-03-20,Fisica,Virtual,30.0,Si,3641484.0
+271,Andres,Hernandez,38.0,Barranquilla,andres.hernandez@mail.com,3001234567,3.67,Aprobado,2025-02-15,Fisica,Hibrida,,Si,
+272,Camila,Castro,52.0,Medellin,camila.castro@mail.com,,3.67,Aprobado,2025-04-01,Fisica,Hibrida,,Si,
+273,Andres,Torres,38.0,Bucaramanga,andres.torres@mail.com,,3.67,Aprobado,2025-04-01,Ingenieria,Virtual,,No,
+274,Luisa,Gomez,38.0,Medellin,,3001234567,3.67,Pendiente,2025-02-15,Matematicas,Hibrida,,Si,
+275,Camila,Martinez,38.0,Medellin,,,2.62,Rechazado,2025-01-15,Ingenieria,Virtual,117.0,Si,
+276,Jorge,Gomez,38.0,Cali,,,3.67,Pendiente,,Doctorado,Presencial,,Si,3151610.0
+277,Andres,Torres,50.0,Cali,,,3.67,Aprobado,2025-02-15,Fisica,Presencial,40.0,No,
+278,Andres,Rodriguez,38.0,Medellin,,,3.67,En Proceso,2025-04-01,Fisica,Hibrida,,Si,8112581.0
+279,Luisa,Hernandez,38.0,Bucaramanga,,3001234567,2.54,Rechazado,2025-02-15,Doctorado,Presencial,,No,4289394.0
+280,Camila,Gomez,38.0,Bucaramanga,,,3.67,Rechazado,2025-02-15,Ingenieria,Presencial,50.0,Si,3740422.0
+281,Pedro,Torres,56.0,Bucaramanga,,,3.67,Rechazado,,Ingenieria,Virtual,,No,
+282,Jorge,Lopez,38.0,Cali,,3001234567,3.67,En Proceso,2025-03-20,Fisica,Hibrida,,No,
+283,Andres,Castro,20.0,Bogota,,,3.67,Rechazado,,Fisica,Virtual,,Si,
+284,Jorge,Torres,38.0,Bogota,,,4.56,Aprobado,,Ingenieria,Presencial,13.0,No,
+285,Juan,Gomez,38.0,Bogota,,3001234567,3.67,En Proceso,2025-02-15,Ingenieria,Presencial,,No,
+286,Carlos,Lopez,17.0,Cali,,,3.67,Rechazado,,Fisica,Virtual,,No,
+287,Andres,Garcia,38.0,Medellin,,,3.67,En Proceso,2025-03-20,Ingenieria,Presencial,1.0,Si,9779789.0
+288,Pedro,Torres,50.0,Bucaramanga,,3001234567,3.67,En Proceso,2025-04-01,Doctorado,Hibrida,101.0,No,7268704.0
+289,Jorge,Castro,38.0,Bogota,,,3.67,Pendiente,2025-03-20,Ingenieria,Virtual,,No,
+290,Pedro,Garcia,38.0,Bogota,pedro.garcia@mail.com,,3.67,En Proceso,2025-01-15,Ingenieria,Presencial,,No,1325400.0
+291,Jorge,Gomez,27.0,Medellin,,3001234567,3.67,Pendiente,2025-03-20,Ingenieria,Presencial,,Si,
+292,Camila,Hernandez,45.0,Cali,camila.hernandez@mail.com,,2.24,En Proceso,2025-01-15,Ingenieria,Presencial,,No,
+293,Maria,Martinez,38.0,Medellin,,,4.21,Aprobado,2025-01-15,Fisica,Presencial,,No,6420100.0
+294,Jorge,Rodriguez,38.0,Medellin,,3001234567,2.6,Pendiente,2025-01-15,Fisica,Virtual,,Si,
+295,Andres,Martinez,16.0,Bucaramanga,,3001234567,4.07,Pendiente,2025-03-20,Ingenieria,Virtual,,Si,2007511.0
+296,Carlos,Rodriguez,38.0,Medellin,,,3.67,Pendiente,2025-04-01,Ingenieria,Virtual,,Si,5205984.0
+297,Camila,Garcia,38.0,Medellin,,,3.67,En Proceso,2025-03-20,Ingenieria,Presencial,,No,
+298,Jorge,Hernandez,45.0,Barranquilla,,,4.2,Pendiente,2025-03-20,Ingenieria,Virtual,,No,
+299,Luisa,Castro,38.0,Bogota,luisa.castro@mail.com,3001234567,3.67,Pendiente,2025-01-15,Ingenieria,Virtual,,No,4214793.0
+300,Valentina,Castro,38.0,Medellin,valentina.castro@mail.com,3001234567,2.15,Pendiente,2025-04-01,Fisica,Virtual,59.0,Si,
+301,Luisa,Gomez,38.0,Bogota,luisa.gomez@mail.com,6011234567,3.67,Aprobado,2025-02-15,Ingenieria,Presencial,,No,
+302,Valentina,Lopez,38.0,Barranquilla,,,3.67,En Proceso,2025-02-15,Ingenieria,Presencial,,No,
+303,Jorge,Torres,38.0,Cali,,,3.67,Pendiente,2025-04-01,Fisica,Presencial,,No,
+304,Andres,Gomez,38.0,Bogota,andres.gomez@mail.com,,3.67,Pendiente,,Ingenieria,Hibrida,,Si,
+305,Valentina,Lopez,22.0,Bucaramanga,,,3.07,Pendiente,2025-01-15,Ingenieria,Hibrida,,Si,
+306,Luisa,Torres,38.0,Bogota,luisa.torres@mail.com,,3.67,En Proceso,2025-02-15,Ingenieria,Virtual,,Si,7988074.0
+307,Valentina,Gomez,38.0,Bogota,,,2.91,Pendiente,,Ingenieria,Presencial,19.0,No,
+308,Valentina,Rodriguez,38.0,Medellin,,,4.36,Aprobado,2025-04-01,Matematicas,Presencial,,Si,5404991.0
+309,Jorge,Castro,38.0,Bogota,,,3.44,Pendiente,2025-03-20,Fisica,Presencial,31.0,No,
+310,Valentina,Rodriguez,38.0,Barranquilla,,,3.1,Aprobado,2025-01-15,Doctorado,Hibrida,,No,
+311,Ana,Martinez,38.0,Bogota,ana.martinez@mail.com,3001234567,4.27,Pendiente,2025-04-01,Fisica,Presencial,,Si,
+312,Camila,Gomez,38.0,Medellin,,,3.67,En Proceso,2025-01-15,Fisica,Presencial,48.0,Si,5285846.0
+313,Pedro,Martinez,38.0,Medellin,pedro.martinez@mail.com,3001234567,3.67,En Proceso,2025-04-01,Fisica,Hibrida,110.0,Si,
+314,Ana,Castro,48.0,Cali,ana.castro@mail.com,6011234567,3.67,Pendiente,2025-03-20,Fisica,Virtual,,Si,
+315,Camila,Castro,26.0,Cali,,6011234567,3.67,Rechazado,2025-03-20,Doctorado,Virtual,,Si,
+316,Ana,Lopez,38.0,Bogota,,,3.67,Pendiente,2025-02-15,Fisica,Presencial,,No,
+317,Ana,Lopez,38.0,Medellin,,,3.67,Pendiente,2025-01-15,Fisica,Presencial,40.0,No,
+318,Carlos,Hernandez,25.0,Cali,,,3.67,En Proceso,2025-02-15,Fisica,Hibrida,,No,2791327.0
+319,Juan,Garcia,38.0,Medellin,juan.garcia@mail.com,,3.79,Aprobado,2025-04-01,Fisica,Virtual,,No,7273997.0
+320,Camila,Torres,38.0,Medellin,camila.torres@mail.com,,3.67,En Proceso,2025-04-01,Ingenieria,Presencial,,No,
+321,Luisa,Torres,38.0,Barranquilla,,,3.67,En Proceso,2025-01-15,Fisica,Presencial,66.0,Si,
+322,Ana,Castro,38.0,Barranquilla,ana.castro@mail.com,6011234567,3.67,Rechazado,2025-04-01,Matematicas,Virtual,,Si,8740121.0
+323,Pedro,Gomez,38.0,Bogota,,3001234567,3.67,Aprobado,2025-01-15,Ingenieria,Presencial,,No,
+324,Carlos,Torres,38.0,Bucaramanga,,3001234567,3.67,Aprobado,2025-02-15,Ingenieria,Virtual,,Si,
+325,Andres,Castro,38.0,Cali,,6011234567,3.67,Pendiente,2025-02-15,Ingenieria,Virtual,,No,
+326,Maria,Lopez,28.0,Medellin,,,3.67,Aprobado,2025-04-01,Fisica,Virtual,,No,
+327,Maria,Gomez,38.0,Medellin,,3001234567,3.67,Pendiente,,Ingenieria,Virtual,,Si,
+328,Valentina,Garcia,37.0,Bogota,,,2.33,Pendiente,2025-03-20,Matematicas,Presencial,119.0,Si,
+329,Luisa,Castro,38.0,Bogota,luisa.castro@mail.com,,2.88,Rechazado,,Fisica,Virtual,,No,1976175.0
+330,Jorge,Rodriguez,38.0,Medellin,,,3.67,Rechazado,,Ingenieria,Presencial,,No,9262853.0
+331,Ana,Garcia,28.0,Bogota,ana.garcia@mail.com,6011234567,3.67,En Proceso,2025-02-15,Matematicas,Virtual,,Si,
+332,Pedro,Garcia,38.0,Medellin,pedro.garcia@mail.com,3001234567,3.67,Rechazado,2025-03-20,Ingenieria,Virtual,,Si,
+333,Camila,Torres,38.0,Bucaramanga,,,3.67,En Proceso,2025-02-15,Fisica,Virtual,,Si,9990666.0
+334,Valentina,Hernandez,38.0,Bogota,,,2.84,Pendiente,2025-03-20,Fisica,Presencial,23.0,No,
+335,Juan,Garcia,42.0,Bucaramanga,,,3.67,Pendiente,2025-01-15,Fisica,Hibrida,,No,1627384.0
+336,Camila,Gomez,38.0,Bogota,,,3.67,Pendiente,,Doctorado,Virtual,26.0,No,
+337,Maria,Gomez,35.0,Bogota,maria.gomez@mail.com,,3.0,Rechazado,2025-02-15,Ingenieria,Presencial,,Si,6383479.0
+338,Pedro,Garcia,38.0,Bucaramanga,,6011234567,3.67,Rechazado,2025-02-15,Ingenieria,Virtual,,Si,
+339,Pedro,Martinez,26.0,Medellin,,3001234567,3.67,Pendiente,2025-04-01,Ingenieria,Virtual,,Si,1902612.0
+340,Andres,Lopez,38.0,Bucaramanga,,6011234567,3.67,Aprobado,2025-03-20,Doctorado,Virtual,,No,
+341,Camila,Torres,38.0,Bogota,,,3.67,En Proceso,2025-04-01,Ingenieria,Hibrida,,Si,1507747.0
+342,Maria,Hernandez,38.0,Bogota,,,3.67,Aprobado,2025-04-01,Matematicas,Virtual,71.0,Si,
+343,Andres,Castro,38.0,Medellin,,3001234567,3.67,Rechazado,2025-02-15,Ingenieria,Presencial,,No,
+344,Carlos,Rodriguez,38.0,Bogota,,,3.67,Aprobado,2025-01-15,Doctorado,Virtual,,No,
+345,Valentina,Castro,38.0,Bogota,valentina.castro@mail.com,6011234567,2.27,Pendiente,2025-03-20,Matematicas,Presencial,,Si,4282741.0
+346,Pedro,Garcia,38.0,Bogota,,6011234567,3.67,Rechazado,2025-01-15,Ingenieria,Hibrida,,Si,
+347,Ana,Castro,38.0,Barranquilla,,,3.67,En Proceso,2025-02-15,Matematicas,Presencial,,No,8967020.0
+348,Jorge,Castro,38.0,Bogota,,6011234567,3.67,Aprobado,2025-01-15,Ingenieria,Virtual,,No,8327199.0
+349,Carlos,Castro,38.0,Barranquilla,,,3.67,En Proceso,2025-04-01,Matematicas,Hibrida,,No,
+350,Ana,Garcia,38.0,Cali,,,2.1,Aprobado,2025-01-15,Fisica,Virtual,,Si,
+351,Jorge,Rodriguez,38.0,Bogota,,,3.67,Aprobado,,Ingenieria,Presencial,,Si,
+352,Luisa,Castro,38.0,Medellin,,,3.67,Rechazado,,Ingenieria,Virtual,73.0,No,
+353,Juan,Garcia,47.0,Bogota,,6011234567,3.67,Rechazado,2025-02-15,Ingenieria,Hibrida,94.0,Si,
+354,Camila,Hernandez,38.0,Medellin,camila.hernandez@mail.com,,3.67,Aprobado,2025-02-15,Ingenieria,Presencial,,No,
+355,Camila,Lopez,38.0,Cali,camila.lopez@mail.com,3001234567,3.67,Pendiente,2025-04-01,Matematicas,Virtual,,No,9934217.0
+356,Andres,Torres,38.0,Barranquilla,,,3.67,Aprobado,2025-03-20,Ingenieria,Presencial,,Si,
+357,Pedro,Rodriguez,38.0,Barranquilla,,,3.67,Pendiente,2025-01-15,Fisica,Hibrida,40.0,No,1142206.0
+358,Andres,Rodriguez,49.0,Bucaramanga,,,3.67,Pendiente,2025-01-15,Ingenieria,Virtual,,Si,
+359,Maria,Lopez,38.0,Bogota,,,3.67,Rechazado,2025-03-20,Matematicas,Virtual,,No,
+360,Pedro,Lopez,38.0,Bogota,pedro.lopez@mail.com,,3.67,Rechazado,2025-04-01,Ingenieria,Virtual,,Si,7587312.0
+361,Maria,Lopez,38.0,Medellin,,,3.84,Aprobado,2025-04-01,Ingenieria,Virtual,,Si,8480659.0
+362,Carlos,Gomez,38.0,Medellin,,,3.67,Aprobado,2025-02-15,Fisica,Virtual,,No,
+363,Juan,Castro,38.0,Bogota,,,3.67,En Proceso,2025-03-20,Ingenieria,Virtual,,Si,
+364,Ana,Lopez,51.0,Barranquilla,,3001234567,3.67,Rechazado,2025-02-15,Matematicas,Virtual,,No,3347853.0
+365,Juan,Martinez,38.0,Bogota,,,3.67,En Proceso,2025-01-15,Ingenieria,Virtual,,Si,
+366,Ana,Torres,38.0,Bogota,ana.torres@mail.com,3001234567,4.22,Pendiente,2025-02-15,Matematicas,Virtual,116.0,No,
+367,Juan,Lopez,56.0,Medellin,,,4.46,Pendiente,,Doctorado,Presencial,104.0,Si,
+368,Valentina,Martinez,38.0,Barranquilla,,,3.67,Aprobado,2025-02-15,Fisica,Presencial,,No,
+369,Luisa,Rodriguez,38.0,Bogota,,,4.27,Pendiente,2025-01-15,Matematicas,Presencial,17.0,Si,7310431.0
+370,Camila,Rodriguez,16.0,Bogota,,,3.67,En Proceso,2025-04-01,Fisica,Presencial,,No,
+371,Ana,Lopez,55.0,Bogota,ana.lopez@mail.com,,3.67,Rechazado,,Matematicas,Virtual,24.0,No,9895263.0
+372,Luisa,Martinez,38.0,Medellin,,,2.16,En Proceso,2025-04-01,Ingenieria,Presencial,,Si,5782589.0
+373,Pedro,Hernandez,38.0,Bogota,,6011234567,2.31,Aprobado,,Matematicas,Presencial,,Si,
+374,Luisa,Castro,38.0,Medellin,,3001234567,3.67,Pendiente,,Fisica,Virtual,,No,
+375,Camila,Gomez,38.0,Medellin,,,3.67,Rechazado,2025-03-20,Ingenieria,Virtual,,No,5524723.0
+376,Carlos,Gomez,38.0,Bogota,,,2.84,En Proceso,,Ingenieria,Hibrida,,No,
+377,Carlos,Martinez,38.0,Bucaramanga,,,4.59,Rechazado,2025-02-15,Ingenieria,Virtual,,No,
+378,Valentina,Lopez,52.0,Barranquilla,,,4.94,Aprobado,2025-02-15,Matematicas,Presencial,61.0,No,
+379,Maria,Gomez,38.0,Medellin,,3001234567,3.67,Aprobado,2025-04-01,Matematicas,Hibrida,,No,
+380,Carlos,Castro,38.0,Bucaramanga,carlos.castro@mail.com,,4.11,Rechazado,2025-01-15,Fisica,Virtual,,Si,
+381,Valentina,Hernandez,38.0,Cali,,,4.66,En Proceso,2025-02-15,Fisica,Virtual,,Si,
+382,Carlos,Hernandez,38.0,Bogota,,6011234567,3.67,Rechazado,2025-03-20,Ingenieria,Hibrida,35.0,No,
+383,Camila,Torres,38.0,Bogota,,,3.67,Rechazado,2025-04-01,Doctorado,Virtual,,No,2464797.0
+384,Carlos,Garcia,20.0,Bogota,,,3.67,Pendiente,2025-03-20,Doctorado,Presencial,,Si,
+385,Andres,Torres,57.0,Medellin,,,2.57,Rechazado,,Matematicas,Presencial,,Si,
+386,Jorge,Torres,38.0,Bogota,,,3.67,Pendiente,2025-03-20,Matematicas,Hibrida,98.0,Si,
+387,Camila,Lopez,38.0,Medellin,,6011234567,2.55,Pendiente,2025-03-20,Ingenieria,Virtual,,Si,
+388,Carlos,Martinez,51.0,Cali,,,4.93,Pendiente,2025-02-15,Fisica,Hibrida,117.0,Si,
+389,Camila,Hernandez,25.0,Cali,,,3.67,Pendiente,2025-02-15,Doctorado,Presencial,43.0,No,9035971.0
+390,Jorge,Rodriguez,35.0,Barranquilla,,,3.85,Aprobado,2025-01-15,Ingenieria,Virtual,,No,5662844.0
+391,Maria,Torres,59.0,Barranquilla,maria.torres@mail.com,,3.67,En Proceso,2025-03-20,Ingenieria,Virtual,,Si,
+392,Luisa,Garcia,38.0,Bogota,,,3.67,Rechazado,2025-03-20,Ingenieria,Virtual,17.0,No,3409867.0
+393,Camila,Hernandez,38.0,Barranquilla,,,3.67,Pendiente,,Fisica,Virtual,,No,
+394,Camila,Gomez,38.0,Medellin,,6011234567,3.67,Aprobado,2025-03-20,Doctorado,Virtual,,No,8927925.0
+395,Andres,Lopez,38.0,Bogota,,3001234567,3.67,Rechazado,2025-01-15,Fisica,Virtual,,No,
+396,Luisa,Gomez,38.0,Bogota,,,3.67,Pendiente,2025-03-20,Ingenieria,Hibrida,,Si,
+397,Jorge,Rodriguez,38.0,Bogota,,,3.67,Rechazado,,Doctorado,Hibrida,,Si,
+398,Luisa,Lopez,38.0,Medellin,,,3.67,Pendiente,,Ingenieria,Presencial,,No,
+399,Jorge,Rodriguez,38.0,Bogota,jorge.rodriguez@mail.com,,2.35,Rechazado,2025-02-15,Ingenieria,Hibrida,,No,
+400,Pedro,Gomez,38.0,Bogota,,,4.57,Pendiente,2025-04-01,Ingenieria,Presencial,54.0,Si,2304181.0
+401,Andres,Gomez,28.0,Bogota,andres.gomez@mail.com,,3.67,Aprobado,,Ingenieria,Virtual,38.0,Si,2619061.0
+402,Ana,Martinez,38.0,Bogota,,,3.67,Rechazado,2025-01-15,Ingenieria,Presencial,64.0,No,
+403,Jorge,Martinez,38.0,Bogota,jorge.martinez@mail.com,3001234567,3.67,Pendiente,2025-01-15,Fisica,Virtual,,Si,
+404,Carlos,Hernandez,38.0,Medellin,carlos.hernandez@mail.com,,3.67,Aprobado,2025-01-15,Matematicas,Virtual,,No,
+405,Maria,Hernandez,47.0,Barranquilla,,,3.67,Pendiente,2025-04-01,Fisica,Virtual,,Si,4167286.0
+406,Luisa,Lopez,38.0,Bogota,luisa.lopez@mail.com,3001234567,3.67,Pendiente,2025-02-15,Matematicas,Virtual,,Si,
+407,Luisa,Martinez,38.0,Bogota,,,3.67,Rechazado,2025-03-20,Doctorado,Virtual,,Si,
+408,Carlos,Torres,22.0,Medellin,,3001234567,3.47,Aprobado,,Fisica,Virtual,63.0,Si,
+409,Luisa,Lopez,38.0,Bogota,,,3.67,Pendiente,,Ingenieria,Virtual,,No,
+410,Juan,Gomez,43.0,Barranquilla,,,3.67,Aprobado,2025-02-15,Ingenieria,Presencial,,Si,
+411,Pedro,Castro,47.0,Bucaramanga,,,3.67,Pendiente,2025-03-20,Fisica,Virtual,,No,
+412,Pedro,Hernandez,19.0,Bogota,,,3.67,Aprobado,2025-04-01,Doctorado,Hibrida,,No,
+413,Luisa,Gomez,38.0,Medellin,luisa.gomez@mail.com,3001234567,3.67,Rechazado,2025-04-01,Ingenieria,Hibrida,,No,
+414,Valentina,Castro,33.0,Bucaramanga,,,3.67,En Proceso,2025-02-15,Ingenieria,Presencial,,Si,
+415,Luisa,Torres,38.0,Bogota,,6011234567,3.67,En Proceso,,Fisica,Virtual,,No,
+416,Andres,Martinez,55.0,Bogota,andres.martinez@mail.com,,3.67,En Proceso,2025-03-20,Matematicas,Presencial,101.0,Si,
+417,Andres,Hernandez,38.0,Barranquilla,,,3.67,Pendiente,2025-04-01,Ingenieria,Presencial,,No,
+418,Pedro,Castro,52.0,Medellin,,6011234567,3.09,Rechazado,2025-03-20,Doctorado,Virtual,40.0,No,
+419,Pedro,Lopez,38.0,Medellin,,6011234567,3.22,Aprobado,2025-01-15,Ingenieria,Hibrida,,No,
+420,Ana,Lopez,38.0,Bogota,,3001234567,3.67,En Proceso,2025-03-20,Doctorado,Virtual,110.0,Si,
+421,Maria,Castro,39.0,Barranquilla,,6011234567,3.67,Aprobado,2025-02-15,Fisica,Presencial,,Si,9329067.0
+422,Valentina,Rodriguez,38.0,Barranquilla,,,3.67,Pendiente,2025-03-20,Ingenieria,Virtual,,No,
+423,Valentina,Gomez,38.0,Cali,,,4.1,En Proceso,2025-03-20,Matematicas,Presencial,,Si,
+424,Pedro,Gomez,38.0,Bogota,pedro.gomez@mail.com,6011234567,3.67,Rechazado,2025-02-15,Fisica,Virtual,,Si,
+425,Camila,Castro,38.0,Medellin,,6011234567,2.9,Pendiente,2025-04-01,Matematicas,Hibrida,101.0,No,5597569.0
+426,Camila,Castro,38.0,Bogota,,,3.67,Aprobado,2025-02-15,Ingenieria,Virtual,58.0,Si,
+427,Camila,Lopez,38.0,Medellin,camila.lopez@mail.com,3001234567,3.67,Pendiente,2025-04-01,Ingenieria,Presencial,,No,
+428,Carlos,Garcia,38.0,Cali,carlos.garcia@mail.com,,4.4,Rechazado,,Ingenieria,Virtual,,No,1347869.0
+429,Valentina,Martinez,38.0,Medellin,valentina.martinez@mail.com,,2.79,En Proceso,2025-01-15,Fisica,Hibrida,,No,
+430,Juan,Castro,38.0,Bogota,,,2.67,Rechazado,2025-02-15,Fisica,Virtual,,No,
+431,Pedro,Martinez,38.0,Barranquilla,,,4.38,Pendiente,2025-04-01,Fisica,Virtual,,No,2438456.0
+432,Carlos,Hernandez,38.0,Medellin,,,3.67,Rechazado,2025-03-20,Ingenieria,Virtual,,Si,
+433,Valentina,Gomez,38.0,Barranquilla,,6011234567,3.67,Aprobado,2025-02-15,Fisica,Presencial,,Si,
+434,Maria,Hernandez,38.0,Bogota,maria.hernandez@mail.com,6011234567,3.67,En Proceso,,Doctorado,Hibrida,,Si,
+435,Pedro,Hernandez,38.0,Cali,,,3.67,En Proceso,2025-04-01,Ingenieria,Presencial,,No,4072601.0
+436,Pedro,Lopez,38.0,Bogota,pedro.lopez@mail.com,,3.67,Rechazado,2025-02-15,Fisica,Presencial,,No,
+437,Maria,Hernandez,38.0,Medellin,,,2.54,Pendiente,2025-01-15,Fisica,Virtual,53.0,No,
+438,Luisa,Gomez,34.0,Barranquilla,,6011234567,3.12,Aprobado,2025-01-15,Ingenieria,Virtual,,No,
+439,Valentina,Torres,38.0,Bogota,,,2.63,Aprobado,2025-02-15,Fisica,Virtual,,No,5280939.0
+440,Andres,Rodriguez,38.0,Bogota,,6011234567,3.67,Aprobado,2025-01-15,Ingenieria,Virtual,,No,
+441,Luisa,Martinez,38.0,Barranquilla,,3001234567,3.67,En Proceso,,Doctorado,Hibrida,,No,2559399.0
+442,Luisa,Torres,38.0,Bogota,luisa.torres@mail.com,,3.67,En Proceso,2025-03-20,Matematicas,Virtual,,No,
+443,Ana,Castro,38.0,Bogota,ana.castro@mail.com,,3.65,En Proceso,,Matematicas,Virtual,,No,
+444,Maria,Gomez,38.0,Bogota,maria.gomez@mail.com,3001234567,3.67,En Proceso,2025-03-20,Fisica,Hibrida,,Si,
+445,Luisa,Lopez,38.0,Bogota,,3001234567,3.67,En Proceso,2025-04-01,Fisica,Virtual,50.0,Si,1223214.0
+446,Camila,Castro,38.0,Bucaramanga,,,3.67,Rechazado,2025-02-15,Ingenieria,Presencial,,No,2877580.0
+447,Juan,Martinez,38.0,Medellin,,3001234567,3.67,Rechazado,2025-02-15,Doctorado,Virtual,,No,1366025.0
+448,Carlos,Torres,38.0,Bogota,,6011234567,3.67,Rechazado,2025-04-01,Fisica,Virtual,42.0,Si,
+449,Andres,Torres,38.0,Medellin,,,3.67,En Proceso,2025-04-01,Ingenieria,Virtual,,Si,
+450,Camila,Rodriguez,38.0,Cali,camila.rodriguez@mail.com,6011234567,3.67,Rechazado,2025-02-15,Fisica,Presencial,,No,
+451,Valentina,Hernandez,38.0,Bogota,,,3.67,Rechazado,2025-01-15,Doctorado,Virtual,,No,
+452,Camila,Lopez,38.0,Bogota,,,3.82,Rechazado,2025-02-15,Ingenieria,Presencial,,Si,
+453,Carlos,Gomez,38.0,Barranquilla,carlos.gomez@mail.com,,2.34,Pendiente,2025-03-20,Matematicas,Hibrida,,Si,
+454,Carlos,Rodriguez,38.0,Bucaramanga,carlos.rodriguez@mail.com,,4.89,Aprobado,2025-01-15,Doctorado,Presencial,64.0,Si,
+455,Ana,Hernandez,38.0,Bucaramanga,ana.hernandez@mail.com,6011234567,3.67,Rechazado,2025-01-15,Ingenieria,Presencial,,Si,
+456,Ana,Torres,38.0,Bogota,,,3.67,Pendiente,2025-04-01,Ingenieria,Presencial,,No,
+457,Andres,Torres,38.0,Bogota,andres.torres@mail.com,3001234567,3.33,Rechazado,2025-02-15,Ingenieria,Virtual,55.0,No,7597913.0
+458,Valentina,Gomez,38.0,Medellin,,,3.67,Rechazado,2025-02-15,Ingenieria,Hibrida,,No,
+459,Jorge,Torres,38.0,Barranquilla,jorge.torres@mail.com,3001234567,3.67,Rechazado,2025-03-20,Matematicas,Presencial,27.0,Si,
+460,Jorge,Hernandez,38.0,Bogota,,6011234567,3.67,Rechazado,,Fisica,Virtual,93.0,Si,
+461,Luisa,Rodriguez,19.0,Bucaramanga,luisa.rodriguez@mail.com,,3.67,Rechazado,,Ingenieria,Presencial,,No,
+462,Carlos,Castro,38.0,Bogota,,,3.67,En Proceso,2025-01-15,Ingenieria,Presencial,,No,2374845.0
+463,Andres,Lopez,38.0,Bucaramanga,,,3.67,En Proceso,2025-04-01,Doctorado,Hibrida,,No,
+464,Andres,Lopez,38.0,Bogota,,,3.67,Aprobado,2025-03-20,Fisica,Presencial,60.0,No,
+465,Maria,Castro,23.0,Cali,,3001234567,3.72,Rechazado,2025-02-15,Ingenieria,Hibrida,,Si,1469389.0
+466,Valentina,Castro,38.0,Medellin,,3001234567,3.67,Aprobado,,Fisica,Hibrida,111.0,Si,
+467,Pedro,Torres,38.0,Bucaramanga,,6011234567,3.67,En Proceso,,Doctorado,Virtual,,No,
+468,Andres,Castro,38.0,Cali,,,3.67,Aprobado,,Doctorado,Presencial,,Si,
+469,Maria,Martinez,38.0,Bogota,,,3.67,Aprobado,,Ingenieria,Presencial,,No,4452834.0
+470,Camila,Rodriguez,38.0,Cali,,3001234567,3.21,Rechazado,2025-01-15,Matematicas,Presencial,,No,
+471,Maria,Rodriguez,38.0,Medellin,maria.rodriguez@mail.com,6011234567,3.67,Rechazado,2025-01-15,Matematicas,Presencial,,Si,4044357.0
+472,Pedro,Castro,38.0,Bogota,,,3.67,Aprobado,,Ingenieria,Presencial,,No,
+473,Andres,Rodriguez,33.0,Cali,andres.rodriguez@mail.com,,3.67,Aprobado,2025-02-15,Matematicas,Presencial,34.0,Si,
+474,Pedro,Castro,44.0,Medellin,,,4.35,Pendiente,2025-04-01,Doctorado,Presencial,,No,1701154.0
+475,Valentina,Garcia,38.0,Bogota,,,3.67,Rechazado,2025-01-15,Doctorado,Virtual,,Si,
+476,Carlos,Rodriguez,35.0,Barranquilla,,,4.1,Pendiente,2025-04-01,Fisica,Presencial,,Si,
+477,Pedro,Martinez,38.0,Cali,,3001234567,3.67,Pendiente,,Fisica,Virtual,0.0,No,
+478,Camila,Castro,50.0,Bogota,,3001234567,3.67,Rechazado,2025-04-01,Doctorado,Virtual,,Si,1141455.0
+479,Luisa,Martinez,44.0,Medellin,,6011234567,3.67,Aprobado,2025-03-20,Doctorado,Presencial,,Si,
+480,Juan,Garcia,38.0,Medellin,,3001234567,3.67,Rechazado,,Fisica,Presencial,,No,3944885.0
+481,Carlos,Rodriguez,38.0,Medellin,,6011234567,3.67,Aprobado,2025-01-15,Fisica,Presencial,,Si,
+482,Luisa,Castro,38.0,Bogota,,,3.67,Aprobado,2025-03-20,Fisica,Presencial,,Si,
+483,Juan,Castro,38.0,Bogota,,,4.64,Aprobado,2025-01-15,Ingenieria,Presencial,,No,
+484,Juan,Torres,43.0,Cali,juan.torres@mail.com,,4.52,Pendiente,,Ingenieria,Virtual,,Si,
+485,Camila,Rodriguez,38.0,Bogota,camila.rodriguez@mail.com,,2.26,Rechazado,,Doctorado,Virtual,,No,
+486,Andres,Rodriguez,22.0,Bogota,,3001234567,3.67,En Proceso,,Ingenieria,Presencial,,Si,
+487,Valentina,Rodriguez,37.0,Bucaramanga,,3001234567,3.67,Aprobado,,Ingenieria,Presencial,,Si,
+488,Pedro,Hernandez,38.0,Bucaramanga,pedro.hernandez@mail.com,3001234567,2.56,Pendiente,,Ingenieria,Presencial,,No,
+489,Carlos,Lopez,38.0,Cali,,3001234567,2.87,Pendiente,2025-02-15,Fisica,Presencial,,Si,4278387.0
+490,Maria,Hernandez,38.0,Bucaramanga,,,3.67,Rechazado,2025-02-15,Matematicas,Hibrida,,No,
+491,Juan,Martinez,38.0,Bucaramanga,,,3.87,En Proceso,2025-01-15,Ingenieria,Virtual,105.0,No,7087061.0
+492,Luisa,Gomez,51.0,Bogota,,3001234567,2.87,Aprobado,2025-02-15,Ingenieria,Presencial,,Si,
+493,Luisa,Martinez,38.0,Bogota,luisa.martinez@mail.com,3001234567,3.67,Pendiente,2025-02-15,Matematicas,Virtual,,Si,
+494,Luisa,Hernandez,38.0,Barranquilla,luisa.hernandez@mail.com,6011234567,4.64,Pendiente,,Doctorado,Presencial,,No,
+495,Andres,Martinez,38.0,Medellin,,,3.67,Pendiente,2025-01-15,Ingenieria,Hibrida,,No,
+496,Camila,Rodriguez,38.0,Barranquilla,,,3.67,En Proceso,2025-03-20,Ingenieria,Hibrida,,Si,
+497,Valentina,Castro,38.0,Bogota,,6011234567,2.62,En Proceso,2025-03-20,Ingenieria,Hibrida,,No,
+498,Jorge,Rodriguez,24.0,Medellin,,,3.67,Aprobado,2025-04-01,Matematicas,Presencial,,Si,
+499,Luisa,Torres,38.0,Barranquilla,,,3.67,Aprobado,2025-01-15,Ingenieria,Virtual,107.0,Si,5637641.0
